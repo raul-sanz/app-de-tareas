@@ -1,0 +1,36 @@
+
+h1 {
+    text-align: center;
+    font-size: 25px;
+}
+h3{
+	font-size: 20px;
+}
+
+.titulo{
+	margin-bottom: 25px;
+}
+
+#contenido {
+    margin-top: 40px;
+    padding: 10px;
+}
+.borrar-tweet,
+.borrar-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+
+.tareasconten{
+	padding: 5px 25px 25px 25px;
+}
+
+.ismedium{
+	margin-bottom: 12px; 
+}
+
+.largo{
+    height: 100%;
+}
